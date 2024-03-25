@@ -3,3 +3,5 @@ Pedro Medeiros (pdemedei)_
 Special Instructions:
 	1) Compile with make
 	2) Run program using: "./mush2" or "./mush2 [file]" 
+
+Library code provided by Philip Nico. All credit for those libraries go to him
